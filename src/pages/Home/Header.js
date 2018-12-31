@@ -1,7 +1,6 @@
 
 import styled from 'styled-components'
 
-
 const Header = styled.header`
   background-color: #282c34;
   min-height: 100vh;
@@ -13,4 +12,4 @@ const Header = styled.header`
   color: white;
 `
 
-export default Header;
+export default Header

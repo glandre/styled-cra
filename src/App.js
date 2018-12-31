@@ -1,15 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
-import Home from './pages/Home';
-
-
+import Home from './pages/Home'
 
 class App extends Component {
-  render() {
+  render () {
     return (
       <Home />
-    );
+    )
   }
 }
 
-export default App;
+export default App

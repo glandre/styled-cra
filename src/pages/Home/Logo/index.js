@@ -17,6 +17,6 @@ const Image = styled.img`
   }
 `
 
-const Logo = () => (<Image src={logo} alt="logo" />)
+const Logo = () => (<Image src={logo} alt='logo' />)
 
 export default Logo
